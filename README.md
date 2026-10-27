@@ -76,51 +76,51 @@ The table below catalogs premier SaaS BCM and operational resilience platforms, 
 
 The following open-source repositories provide foundational tooling for disaster recovery automation, incident orchestration, situation management, backup verification, and business impact analysis. 
 
-The list is sorted in **descending order by GitHub star count**, with verified badges linking directly to each repository's stargazers:
+The list is sorted in **descending order by GitHub Stars_Count**, with verified badges linking directly to each repository's stargazers:
 
-1. 🐘 **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** [![GitHub stars](https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social&color=white)](https://github.com/cloudnative-pg/cloudnative-pg/stargazers)  
+1. 🐘 **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social&color=white)](https://github.com/cloudnative-pg/cloudnative-pg/stargazers)  
    The leading Kubernetes Operator for PostgreSQL, engineered for zero-data-loss business continuity; provides automated failover, multi-region disaster recovery replication, and continuous WAL archiving.
 
-2. ⏱️ **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** [![GitHub stars](https://img.shields.io/github/stars/OneUptime/oneuptime?style=social&color=white)](https://github.com/OneUptime/oneuptime/stargazers)  
+2. ⏱️ **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** [![GitHub_Stars](https://img.shields.io/github/stars/OneUptime/oneuptime?style=social&color=white)](https://github.com/OneUptime/oneuptime/stargazers)  
    Complete open-source observability, uptime monitoring, public and private status pages, on-call alert orchestration, and incident crisis coordination platform for site reliability.
 
-3. 🚨 **[Netflix/dispatch](https://github.com/Netflix/dispatch)** [![GitHub stars](https://img.shields.io/github/stars/Netflix/dispatch?style=social&color=white)](https://github.com/Netflix/dispatch/stargazers)  
+3. 🚨 **[Netflix/dispatch](https://github.com/Netflix/dispatch)** [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/dispatch?style=social&color=white)](https://github.com/Netflix/dispatch/stargazers)  
    Netflix's open-source crisis and incident management orchestration platform; automates incident triage, recovery workflows, stakeholder communication trees, and post-incident retrospectives.
 
-4. 🐝 **[TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive)** [![GitHub stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers)  
+4. 🐝 **[TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive)** [![GitHub_Stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers)  
    Scalable cybersecurity and operational incident response management platform featuring real-time collaborative workspace, dynamic task assignment, and actionable response runbooks.
 
-5. 📦 **[EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)** [![GitHub stars](https://img.shields.io/github/stars/EnterpriseDB/barman?style=social&color=white)](https://github.com/EnterpriseDB/barman/stargazers)  
+5. 📦 **[EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)** [![GitHub_Stars](https://img.shields.io/github/stars/EnterpriseDB/barman?style=social&color=white)](https://github.com/EnterpriseDB/barman/stargazers)  
    Enterprise backup and disaster recovery manager for PostgreSQL; supports remote logical and physical backups, zero-data-loss (RPO=0) recovery architectures, and point-in-time recovery (PITR).
 
-6. 🌐 **[alibaba/Appactive](https://github.com/alibaba/Appactive)** [![GitHub stars](https://img.shields.io/github/stars/alibaba/Appactive?style=social&color=white)](https://github.com/alibaba/Appactive/stargazers)  
+6. 🌐 **[alibaba/Appactive](https://github.com/alibaba/Appactive)** [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/Appactive?style=social&color=white)](https://github.com/alibaba/Appactive/stargazers)  
    Alibaba's standard middleware dedicated to building multi-site active/active disaster recovery and multi-datacenter business continuity architectures with automated traffic re-routing.
 
-7. 🏰 **[mehdi-arfaoui/Stronghold](https://github.com/mehdi-arfaoui/Stronghold)** [![GitHub stars](https://img.shields.io/github/stars/mehdi-arfaoui/Stronghold?style=social&color=white)](https://github.com/mehdi-arfaoui/Stronghold/stargazers)  
+7. 🏰 **[mehdi-arfaoui/Stronghold](https://github.com/mehdi-arfaoui/Stronghold)** [![GitHub_Stars](https://img.shields.io/github/stars/mehdi-arfaoui/Stronghold?style=social&color=white)](https://github.com/mehdi-arfaoui/Stronghold/stargazers)  
    Open-source disaster recovery posture scanner for AWS environments (read-only, zero telemetry); exposes the "reality gap" between claimed protection and proven recoverability and validates runbook liveness.
 
-8. 🏥 **[nocomp/scribe](https://github.com/nocomp/scribe)** [![GitHub stars](https://img.shields.io/github/stars/nocomp/scribe?style=social&color=white)](https://github.com/nocomp/scribe/stargazers)  
+8. 🏥 **[nocomp/scribe](https://github.com/nocomp/scribe)** [![GitHub_Stars](https://img.shields.io/github/stars/nocomp/scribe?style=social&color=white)](https://github.com/nocomp/scribe/stargazers)  
    Open-source hospital crisis management platform (AGPL) built for healthcare crisis coordination; features an integrated scenario injector for simulated crisis exercises and JSON-replayable scenarios.
 
-9. 🤝 **[sahana/eden](https://github.com/sahana/eden)** [![GitHub stars](https://img.shields.io/github/stars/sahana/eden?style=social&color=white)](https://github.com/sahana/eden/stargazers)  
+9. 🤝 **[sahana/eden](https://github.com/sahana/eden)** [![GitHub_Stars](https://img.shields.io/github/stars/sahana/eden?style=social&color=white)](https://github.com/sahana/eden/stargazers)  
    Rapid Application Development framework for humanitarian disaster response, organizational crisis logistics, volunteer coordination, and emergency supply chain management.
 
-10. 📝 **[f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep)** [![GitHub stars](https://img.shields.io/github/stars/f-eld-ch/sitrep?style=social&color=white)](https://github.com/f-eld-ch/sitrep/stargazers)  
+10. 📝 **[f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep)** [![GitHub_Stars](https://img.shields.io/github/stars/f-eld-ch/sitrep?style=social&color=white)](https://github.com/f-eld-ch/sitrep/stargazers)  
     Open-source real-time situation management software for crisis command staffs (AGPL); central journal for incoming/outgoing incident logging, centralized triage, and digital crisis mapping.
 
-11. 🛡️ **[matank001/asclepius](https://github.com/matank001/asclepius)** [![GitHub stars](https://img.shields.io/github/stars/matank001/asclepius?style=social&color=white)](https://github.com/matank001/asclepius/stargazers)  
+11. 🛡️ **[matank001/asclepius](https://github.com/matank001/asclepius)** [![GitHub_Stars](https://img.shields.io/github/stars/matank001/asclepius?style=social&color=white)](https://github.com/matank001/asclepius/stargazers)  
     Automated backup integrity and recoverability validation engine; parses restored files directly to test document, database, and archive readability to guarantee actual RPO compliance.
 
-12. 📊 **[paolocarner/simplified-bia](https://github.com/paolocarner/simplified-bia)** [![GitHub stars](https://img.shields.io/github/stars/paolocarner/simplified-bia?style=social&color=white)](https://github.com/paolocarner/simplified-bia/stargazers)  
+12. 📊 **[paolocarner/simplified-bia](https://github.com/paolocarner/simplified-bia)** [![GitHub_Stars](https://img.shields.io/github/stars/paolocarner/simplified-bia?style=social&color=white)](https://github.com/paolocarner/simplified-bia/stargazers)  
     Simplified Business Impact Analysis (BIA) template and evaluation tooling for SMBs to systematically quantify operational dependencies, financial impact tiers, and downtime tolerance.
 
-13. 📋 **[capetron/business-continuity-plan-template](https://github.com/capetron/business-continuity-plan-template)** [![GitHub stars](https://img.shields.io/github/stars/capetron/business-continuity-plan-template?style=social&color=white)](https://github.com/capetron/business-continuity-plan-template/stargazers)  
+13. 📋 **[capetron/business-continuity-plan-template](https://github.com/capetron/business-continuity-plan-template)** [![GitHub_Stars](https://img.shields.io/github/stars/capetron/business-continuity-plan-template?style=social&color=white)](https://github.com/capetron/business-continuity-plan-template/stargazers)  
     Comprehensive business continuity plan (BCP) repository featuring BIA worksheets, critical function matrices, recovery strategy outlines, communication trees, and audit schedules.
 
-14. 🧪 **[fstelte/Business-Impact-Assessment](https://github.com/fstelte/Business-Impact-Assessment)** [![GitHub stars](https://img.shields.io/github/stars/fstelte/Business-Impact-Assessment?style=social&color=white)](https://github.com/fstelte/Business-Impact-Assessment/stargazers)  
+14. 🧪 **[fstelte/Business-Impact-Assessment](https://github.com/fstelte/Business-Impact-Assessment)** [![GitHub_Stars](https://img.shields.io/github/stars/fstelte/Business-Impact-Assessment?style=social&color=white)](https://github.com/fstelte/Business-Impact-Assessment/stargazers)  
     Python/Flask web application for conducting BIAs locally or organization-wide with SQLite/MariaDB persistence; assesses process criticality and outage thresholds.
 
-15. 💥 **[Mullassery/PyBlastRadius](https://github.com/Mullassery/PyBlastRadius)** [![GitHub stars](https://img.shields.io/github/stars/Mullassery/PyBlastRadius?style=social&color=white)](https://github.com/Mullassery/PyBlastRadius/stargazers)  
+15. 💥 **[Mullassery/PyBlastRadius](https://github.com/Mullassery/PyBlastRadius)** [![GitHub_Stars](https://img.shields.io/github/stars/Mullassery/PyBlastRadius?style=social&color=white)](https://github.com/Mullassery/PyBlastRadius/stargazers)  
     Open-source blast radius analysis and criticality scoring SDK with a Rust core; parses Terraform dependency trees and dbt pipelines to surface systemic operational failure vectors.
 
 ---
@@ -146,7 +146,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive and ac
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-bcm-tool`).
 3. ✏️ **Add / Update Entries**:
    - Ensure SaaS entries include verified starting tier pricing, company size, and specific free trial terms.
-   - Ensure open-source projects include a valid Shields.io star badge linking to `/stargazers`.
+   - Ensure open-source projects include a valid Shields.io Stars_Badge linking to `/stargazers`.
 4. 📝 **Commit Your Changes** (`git commit -m "feat: add NewTool BCM platform"`).
 5. 🚀 **Push to the Branch** (`git push origin feature/add-bcm-tool`).
 6. 📬 **Open a Pull Request** with a brief summary of the submission.
